@@ -13,7 +13,7 @@
   <a href="mailto:ksmmojibullah@qq.com">
     <img src="https://img.shields.io/badge/Email-ksmmojibullah%40qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/mohammed-mojibullah-1290622ab/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on my thesis: **Book Recommendation App** (content-based recommendation using TF-IDF & cosine similarity)
+- 🔭 My undergraduate thesis: **Book Recommendation App** (content-based recommendation using TF-IDF & cosine similarity)
 - 🌱 Learning more about **Deep Learning, NLP, Computer Vision & Network Security**
 - 💡 Passionate about building **intelligent, secure, and scalable systems** that solve real-world problems
 - 🗣️ Languages: Bengali (Native) | English (C1) | Hindi (C1) | Urdu (C1) | Chinese (B1, HSK 4)
