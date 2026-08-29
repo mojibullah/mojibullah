@@ -26,7 +26,7 @@
 - 🌱 Learning more about **Deep Learning, NLP, Computer Vision & Network Security**
 - 💡 Passionate about building **intelligent, secure, and scalable systems** that solve real-world problems
 - 🗣️ Languages: Bengali (Native) | English (C1) | Hindi (C1) | Urdu (C1) | Chinese (B1, HSK 4)
-- 📫 Reach me at: **ksmmojibullah@qq.com**
+- 📫 Reach me at: **ksmmojibullah@qq.com** **ksmmojibullah@gmail.com**
 
 ---
 
@@ -114,7 +114,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mojibullah&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=mojibullah&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
